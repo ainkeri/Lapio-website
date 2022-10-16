@@ -2,6 +2,11 @@
     width: 200px;
     height: 100px;
     background-color: red;
+    border: 10px solid green;
+    text-align: center;
+    text-transform: uppercase;
+    color: blue;
+    padding-top: 45px;
     position: absolute;
 }
 
@@ -9,8 +14,13 @@
     width: 200px;
     height: 100px;
     background-color: yellow;
+    border: 10px solid red;
+    text-align: center;
+    text-transform: uppercase;
+    color: blue;
+    padding-top: 45px;
     position: absolute;
-    left: 250px;
+    left: 275px;
     
 }
 
@@ -18,6 +28,11 @@
     width: 200px;
     height: 100px;
     background-color: green;
+    border: 10px solid yellow;
+    text-align: center;
+    text-transform: uppercase;
+    color: blue;
+    padding-top: 45px;
     position: absolute;
-    left: 500px;
+    left: 540px;
 }
